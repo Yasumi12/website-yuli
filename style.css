@@ -1,0 +1,19 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 3cm;
+  background-color: #4cb1cc;
+}
+
+.container h2 {
+  padding-top: 2cm;
+}
+
+.row p {
+  padding-top: 1rem;
+}
+
+#project {
+  background-color: #4cb1cc;
+}
